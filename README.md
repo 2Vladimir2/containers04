@@ -53,7 +53,8 @@ RUN apt-get update && \
 
 После выполнения команд в папке files/ должны появиться файлы конфигурации apache2, php, mariadb. Проверьте их наличие. Остановите и удалите контейнер apache2-php-mariadb.
 
-<img width="750" alt="image" src="https://github.com/2Vladimir2/containers04/assets/159247721/df8aba67-7592-4594-a068-ec2a5165a126">
+<img width="206" alt="image" src="https://github.com/2Vladimir2/containers04/assets/159247721/38b05dea-5aff-48fa-b462-b61ef7715864">
+
 
 
 
