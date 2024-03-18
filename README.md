@@ -204,7 +204,8 @@ EXIT;
 
 Откройте в браузере сайт WordPress по адресу http://localhost/. Укажите параметры подключения к базе данных:
 
-![image](https://github.com/S1ngle777/containers04/assets/128795707/a23bdf06-accf-4de6-8624-c3a36344075e)
+<img width="880" alt="image" src="https://github.com/2Vladimir2/containers04/assets/159247721/4fc765e5-5956-4d16-a52c-311329ec91f3">
+
 
 
 * имя базы данных: wordpress;
@@ -226,7 +227,8 @@ EXIT;
 
 Пересоберите образ контейнера с именем apache2-php-mariadb и запустите контейнер apache2-php-mariadb из образа apache2-php-mariadb. Проверьте работоспособность сайта WordPress.
 
-![image](https://github.com/S1ngle777/containers04/assets/128795707/782ecbc4-de14-4f0e-a062-d5307d4e69b3)
+<img width="832" alt="image" src="https://github.com/2Vladimir2/containers04/assets/159247721/9809f111-a2b3-4748-9d3c-666034132084">
+
 
 
 ## Ответы на вопросы
