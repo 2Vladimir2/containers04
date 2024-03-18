@@ -69,7 +69,8 @@ RUN apt-get update && \
 
 Сохраните файл и закройте.
 
-![image](https://github.com/S1ngle777/containers04/assets/128795707/a5e42794-80f6-4211-af47-8cd852e8db8f)
+<img width="312" alt="image" src="https://github.com/2Vladimir2/containers04/assets/159247721/e802f67a-eee7-4355-9ab4-382ef51f6d63">
+
 
 
 В конце файла files/apache2/apache2.conf добавьте следующую строку:
